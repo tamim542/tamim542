@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Tauhidul Islam Bhuiyan</h1>
-<h3 align="center">A passionate software developer from Bangladesh</h3>
+<h3 align="center">A passionate SQA Egineer from Bangladesh</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
